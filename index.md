@@ -3,6 +3,8 @@
 ## Clips
 - [Vayne 1shotting Viktor](clips/c001.webm "(gone sexual) (not clickb8)")
 - [Khazix/Orianna Backline Gangbang](clips/c002.webm "Absolutely disgusting")
+- [Gragas 1shotting Vayne](clips/c003.webm "Fat drunk bones vampire hunter (NSFW)")
+
 
 ## Videos
 - [I have the power of god and anime on my side](https://www.youtube.com/watch?v=Tlwda9S58Lg "AAAHHHHHHHHHHH")
