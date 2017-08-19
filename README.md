@@ -1,10 +1,5 @@
-# ヽ༼ຈل͜ຈ༽ﾉ THE LIST ヽ༼ຈل͜ຈ༽ﾉ
+# recyclingbin
 
-## Clips
-- [Vayne 1shotting Viktor](clips/c001.webm "(gone sexual) (not clickb8)")
-- [Khazix/Orianna Backline Gangbang](clips/c002.webm "Absolutely disgusting")
+I just use this to host a really basic website that my freinds and I use to host shit we don't want to forget.
 
-## Videos
-- [I have the power of god and anime on my side](https://www.youtube.com/watch?v=Tlwda9S58Lg "AAAHHHHHHHHHHH")
-- [Cool Guy Has Chill Day](https://www.youtube.com/watch?v=4txVqr1eNwc "It's cool guy!")
-- [Chicken Attack](https://www.youtube.com/watch?v=z8pknnncODo "GO CHICKEN GOOOOOOO")
+[TO THE SITE](recyclingb.in)
