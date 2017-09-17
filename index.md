@@ -11,3 +11,6 @@
 - [I have the power of god and anime on my side](https://www.youtube.com/watch?v=Tlwda9S58Lg "AAAHHHHHHHHHHH")
 - [Cool Guy Has Chill Day](https://www.youtube.com/watch?v=4txVqr1eNwc "It's cool guy!")
 - [Chicken Attack](https://www.youtube.com/watch?v=z8pknnncODo "GO CHICKEN GOOOOOOO")
+
+## Random Files that are too big for Discord
+- ['Pipe Dream' by Garrett](audio/audio0.wav "damn boi")
