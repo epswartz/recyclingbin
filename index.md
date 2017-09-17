@@ -13,4 +13,5 @@
 - [Chicken Attack](https://www.youtube.com/watch?v=z8pknnncODo "GO CHICKEN GOOOOOOO")
 
 ## Random Files that are too big for Discord
-- ['Pipe Dream' by Garrett](audio/audio0.wav "damn boi")
+- [Song 1 by Garrett](audio/audio0.wav "damn boi")
+- [Song 2 by Garrett](audio/audio1.wav "how do he do it")
