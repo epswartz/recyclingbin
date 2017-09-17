@@ -2,4 +2,5 @@
 
 I just use this to host a really basic website that my freinds and I use to host shit we don't want to forget.
 
-[TO THE SITE](https://epswartz.github.io/recyclingbin)
+
+[TO THE SITE](https://epswartz.github.io/recyclingbin/)
