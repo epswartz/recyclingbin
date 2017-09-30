@@ -6,6 +6,7 @@
 - [Gragas 1shotting Vayne](clips/c003.webm "Fat drunk bones vampire hunter (NSFW)")
 - [The Great Ivern Escape](clips/c004.webm "Local man crushed under fallen tree (NSFL)")
 - [The Great Ivern Baron Heist](clips/c005.webm "Jesus christ that's Jason Bourne")
+- [The Closest Game Ever Played](clips/c006.webm "Closer than Donald Trump and Vladimir Putin")
 
 
 ## Videos
